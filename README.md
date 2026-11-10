@@ -16,6 +16,13 @@
   <img src="assets/screenshot-play.png" alt="Riff Rivals — gameplay" width="820">
 </p>
 
+## More screenshots
+
+<table>
+<tr><td width="50%"><img src="assets/screenshot-map.png" alt="The World Tour map"><br><sub>The World Tour map</sub></td><td width="50%"><img src="assets/screenshot-endless.png" alt="Endless Remix"><br><sub>Endless Remix</sub></td></tr>
+<tr><td width="50%"><img src="assets/screenshot-results.png" alt="Results after a duel"><br><sub>Results after a duel</sub></td><td width="50%"><img src="assets/screenshot-merch-booth.png" alt="The Merch Booth: skins bought with vinyl you earn"><br><sub>The Merch Booth: skins bought with vinyl you earn</sub></td></tr>
+</table>
+
 ## Controls
 
 | Keys | Action |
